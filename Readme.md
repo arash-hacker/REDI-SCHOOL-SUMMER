@@ -8,7 +8,6 @@
 5- `python3 main.py` or play run icon(little triangle) from `code runner`
 </pre>
 
-![.](./pics/1.png)
-![.](./pics/2.png)
-![.](./pics/3.png)
-![.](./pics/4.png)
+<img src="./pics/1.png" alt="drawing" width="200"/><img src="./pics/2.png" alt="drawing" width="200"/></br>
+<img src="./pics/3.png" alt="drawing" width="200"/><img src="./pics/4.png" alt="drawing" width="200"/>
+
